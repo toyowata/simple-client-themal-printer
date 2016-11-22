@@ -1,1 +1,1 @@
-"# simple-client-themal-printer" 
+# simple-client-themal-printer
